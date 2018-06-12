@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1528804847110.000,
+    "dirty" : false,
+    "encoding" : "ISO8859-1",
+    "folds" : "",
+    "hash" : "3848871909",
+    "id" : "7769445C",
+    "lastKnownWriteTime" : 1528804880,
+    "last_content_update" : 1528804880418,
+    "path" : "~/Teste_LL/Teste_LL.Rmd",
+    "project_path" : "Teste_LL.Rmd",
+    "properties" : {
+        "cursorPosition" : "1,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
